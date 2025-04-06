@@ -4,7 +4,7 @@
 
   <div style="text-align: center; margin-bottom: 30px;">
     <h1 style="color: #6e48aa;">Machine Learning & Neural Networks Specialist</h1>
-    <p style="color: #666;">Deep Learning | Computer Vision | NLP | AI Solutions</p>
+    <p style="color: #666;">Deep Learning | Computer Vision |  AI Solutions</p>
   </div>
 
   <div style="margin-bottom: 25px;">
@@ -18,9 +18,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="24" style="margin-right: 10px;">
         <span>TensorFlow</span>
       </div>
-      <div style="background: #f9f9f9; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="24" style="margin-right: 10px;">
-        <span>PyTorch</span>
       </div>
       <div style="background: #f9f9f9; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="24" style="margin-right: 10px;">
