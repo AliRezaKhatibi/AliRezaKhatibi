@@ -63,8 +63,6 @@
       </div>
       <div style="background: white; padding: 15px; border-radius: 5px; width: 200px; animation: float 3s ease-in-out infinite 0.5s;">
         <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100" style="margin-bottom: 10px;">
-        <p style="margin: 0; font-weight: bold;">NLP Pipeline</p>
-        <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;">Transformer-based</p>
       </div>
     </div>
   </div>
