@@ -5,7 +5,7 @@
   <!-- Animated header section -->
   <div style="text-align: center; margin-bottom: 30px;">
     <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="150" style="margin-bottom: 10px;">
-    <h1 style="color: #6e48aa; animation: pulse 2s infinite;">Machine Learning & Neural Networks Specialist</h1>
+    <h1 style="color: #6e48aa; animation: pulse 2s infinite;">Machine Learning & Neural Networks </h1>
     <p style="color: #666;">
       <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="20"> 
       Deep Learning | Computer Vision | AI Solutions
