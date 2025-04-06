@@ -59,7 +59,6 @@
       <div style="background: white; padding: 15px; border-radius: 5px; width: 200px; animation: float 3s ease-in-out infinite;">
         <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100" style="margin-bottom: 10px;">
         <p style="margin: 0; font-weight: bold;">Image Classifier</p>
-        <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;">EfficientNetB0 model</p>
       </div>
       <div style="background: white; padding: 15px; border-radius: 5px; width: 200px; animation: float 3s ease-in-out infinite 0.5s;">
         <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100" style="margin-bottom: 10px;">
