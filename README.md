@@ -35,7 +35,6 @@
     <ul style="padding-left: 20px;">
       <li>Deep Neural Networks (CNNs, RNNs, Transformers)</li>
       <li>Computer Vision (Object Detection, Image Segmentation)</li>
-      <li>Natural Language Processing (BERT, GPT architectures)</li>
       <li>Model Optimization & Deployment</li>
     </ul>
   </div>
