@@ -53,12 +53,12 @@
   <!-- Animated project cards -->
   <div style="background: #f5f5f5; padding: 20px; border-radius: 8px; text-align: center;">
     <h3 style="margin-top: 0; color: #6e48aa;">
-      <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30"> Featured Projects
+      <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30"> Featured Projects:
     </h3>
     <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
       <div style="background: white; padding: 15px; border-radius: 5px; width: 200px; animation: float 3s ease-in-out infinite;">
         <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100" style="margin-bottom: 10px;">
-        <p style="margin: 0; font-weight: bold;">Image Classifier</p>
+        <p style="margin: 0; font-weight: bold;"> Image Classifier</p>
       </div>
       <div style="background: white; padding: 15px; border-radius: 5px; width: 200px; animation: float 3s ease-in-out infinite 0.5s;">
         <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100" style="margin-bottom: 10px;">
