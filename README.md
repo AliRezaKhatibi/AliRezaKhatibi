@@ -44,7 +44,7 @@
       <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> ML Expertise
     </h2>
     <ul style="padding-left: 20px;">
-      <li style="animation: fadeIn 1s ease-in;">Deep Neural Networks (CNNs, RNNs, Transformers)</li>
+      <li style="animation: fadeIn 1s ease-in;">Deep Neural Networks (CNNs,...)</li>
       <li style="animation: fadeIn 1s ease-in 0.2s;">Computer Vision (Object Detection, Image Segmentation)</li>
       <li style="animation: fadeIn 1s ease-in 0.6s;">Model Optimization & Deployment</li>
     </ul>
