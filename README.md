@@ -69,13 +69,6 @@
     </div>
   </div>
 
-  <!-- Animated footer -->
-  <div style="text-align: center; margin-top: 30px; padding: 15px; background: linear-gradient(90deg, #6e48aa, #9d50bb); color: white; border-radius: 8px; animation: gradientBG 5s ease infinite;">
-    <p style="margin: 0;">
-      <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="20"> 
-      Let's connect and collaborate on AI projects!
-    </p>
-  </div>
 
   <!-- Animation styles -->
   <style>
