@@ -26,9 +26,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="24" style="margin-right: 10px; animation: bounce 2s infinite 0.2s;">
         <span>TensorFlow</span>
       </div>
-      <div style="background: #f9f9f9; padding: 10px; border-radius: 5px; display: flex; align-items: center; transition: transform 0.3s ease;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="24" style="margin-right: 10px; animation: bounce 2s infinite 0.4s;">
-        <span>PyTorch</span>
       </div>
       <div style="background: #f9f9f9; padding: 10px; border-radius: 5px; display: flex; align-items: center; transition: transform 0.3s ease;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="24" style="margin-right: 10px; animation: bounce 2s infinite 0.6s;">
@@ -49,7 +46,6 @@
     <ul style="padding-left: 20px;">
       <li style="animation: fadeIn 1s ease-in;">Deep Neural Networks (CNNs, RNNs, Transformers)</li>
       <li style="animation: fadeIn 1s ease-in 0.2s;">Computer Vision (Object Detection, Image Segmentation)</li>
-      <li style="animation: fadeIn 1s ease-in 0.4s;">Natural Language Processing (BERT, GPT architectures)</li>
       <li style="animation: fadeIn 1s ease-in 0.6s;">Model Optimization & Deployment</li>
     </ul>
   </div>
