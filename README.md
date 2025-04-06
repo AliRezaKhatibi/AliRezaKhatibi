@@ -40,20 +40,8 @@
     </ul>
   </div>
 
-  <div style="background: #f5f5f5; padding: 20px; border-radius: 8px; text-align: center;">
-    <h3 style="margin-top: 0; color: #6e48aa;">Featured Projects</h3>
-    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
-      <div style="background: white; padding: 15px; border-radius: 5px; width: 200px;">
-        <div style="height: 100px; background: #eee; border-radius: 3px; margin-bottom: 10px;"></div>
-        <p style="margin: 0; font-weight: bold;">Image Classifier</p>
-        <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;">EfficientNetB0 model</p>
-      </div>
-      <div style="background: white; padding: 15px; border-radius: 5px; width: 200px;">
-        <div style="height: 100px; background: #eee; border-radius: 3px; margin-bottom: 10px;"></div>
-        <p style="margin: 0; font-weight: bold;">NLP Pipeline</p>
-        <p style="margin: 5px 0 0; font-size: 0.9em; color: #666;">Transformer-based</p>
-      </div>
-    </div>
+
+  
   </div>
 
 </div>
