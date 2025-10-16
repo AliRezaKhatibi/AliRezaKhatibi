@@ -106,16 +106,29 @@ style G fill:#E6E6FA,stroke:#4a2a9f
 
 ## 📈 GitHub Analytics
 
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliRezaKhatibi&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliRezaKhatibi&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=AliRezaKhatibi&theme=tokyonight&border=2E3440&background=2E3440&ring=88C0D0&fire=81A1C1&currStreakNum=BD93F9&sideNums=ECEFF4&currStreakLabel=D8DEE9&sideLabels=D8DEE9&dates=B48EAD)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=AliRezaKhatibi&theme=tokyonight&hide_border=true&background=transparent)
+
+<!-- کارت‌های اضافی -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AliRezaKhatibi&theme=tokyonight&no-frame=true&no-bg=true)
+![GitHub Snake Animation](https://github.com/AliRezaKhatibi/AliRezaKhatibi/blob/output/github-contribution-grid-snake-dark.svg)
+
+<!-- آمار اضافی -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliRezaKhatibi&layout=donut&theme=tokyonight)
+![Pin Repositories](https://github-readme-stats.vercel.app/api/pin/?username=AliRezaKhatibi&repo=your-repo-name&theme=tokyonight)
+
+<!-- Wakatime (زمان کدنویسی) -->
+![WakaTime Stats](https://wakatime.com/share/@your-wakatime-username/your-public-key.svg)
+
+<!-- Spotify Playing -->
+[![Spotify](https://github-readme-stats.vercel.app/api?username=AliRezaKhatibi&show_icons=true&theme=tokyonight)](https://open.spotify.com/user/your-spotify-id)
 
 </div>
-
 ---
-
 ## 🛠️ Tools & Platforms
 
 <p align="center">
