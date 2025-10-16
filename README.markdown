@@ -110,7 +110,7 @@ style G fill:#E6E6FA,stroke:#4a2a9f
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliRezaKhatibi&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliRezaKhatibi&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AliRezaKhatibi&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliRezaKhatibi&theme=tokyonight&border=2E3440&background=2E3440&ring=88C0D0&fire=81A1C1&currStreakNum=BD93F9&sideNums=ECEFF4&currStreakLabel=D8DEE9&sideLabels=D8DEE9&dates=B48EAD)
 
 </div>
 
