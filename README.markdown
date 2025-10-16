@@ -97,13 +97,9 @@ style G fill:#E6E6FA,stroke:#4a2a9f
 ---
 
 ## 🧩 My Current Research Focus
-
-- **Dynamic Graph Neural Networks (DGNNs)** for evolving data streams  
+ 
 - **Hybrid CNN-Markov Models** for medical imaging  
 - **Explainable AI (XAI)** for interpretability in healthcare AI  
-- **Transfer Learning on Multi-Modal Data** (vision + text)  
-- **Federated Learning** for privacy-preserving AI
-
 📖 I regularly publish experimental findings and contribute to open-source projects in these domains.
 
 ---
@@ -112,9 +108,9 @@ style G fill:#E6E6FA,stroke:#4a2a9f
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliRezaKhatibi&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliRezaKhatibi&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AliRezaKhatibi&theme=tokyonight)
 
 </div>
 
@@ -138,7 +134,7 @@ style G fill:#E6E6FA,stroke:#4a2a9f
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgray?logo=github)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgray?logo=github)](https://github.com/AliRezaKhatibi)
 [![Twitter](https://img.shields.io/badge/X-Follow-black?logo=x&logoColor=white)](https://twitter.com/your-profile)
 [![Email](https://img.shields.io/badge/Email-your--email%40example.com-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
   
