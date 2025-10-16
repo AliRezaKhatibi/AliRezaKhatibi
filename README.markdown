@@ -11,9 +11,9 @@ Building intelligent systems that see, understand, and predict the world.
 Turning **data** into **insight**, **algorithms** into **impact**, and **models** into **real-world solutions**.
 
 [![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/X-@yourhandle-black?logo=x)](https://twitter.com/your-profile)
-[![Mail](https://img.shields.io/badge/Email-Contact_me-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/alireza-khatibi78)
+[![X](https://img.shields.io/badge/X-@yourhandle-black?logo=x)](https://x.com/your-profile)
+[![Mail](https://img.shields.io/badge/Email-Contact_me-D14836?logo=gmail&logoColor=white)](alireza12arkero@gmail.com)
 
 ---
 
