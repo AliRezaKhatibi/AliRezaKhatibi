@@ -1,4 +1,4 @@
-# 👋 Welcome to My AI & Data Science Universe!
+ایرادات این کد را برطرف کنید و کامل انرا بفرست # 👋 Welcome to My AI & Data Science Universe!
 
 <div style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; max-width: 1000px; margin: 0 auto; padding: 40px; color: #2d2d2d; background: linear-gradient(135deg, #e6e9f0 0%, #eef1f5 100%); border-radius: 16px; box-shadow: 0 6px 24px rgba(0,0,0,0.15); position: relative; overflow: hidden;">
 
