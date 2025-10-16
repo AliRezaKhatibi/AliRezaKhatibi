@@ -73,7 +73,7 @@ pie title Technical Expertise
 
 | 🧩 Preview | 🧠 Project | 🔍 Description |
 |-------------|-------------|----------------|
-| <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="160" alt="Image Classifier"/> | **🖼️ Image Classifier** | CNN-based model achieving **95%+ accuracy** across 10 classes. [🔗 View Repo](https://github.com/your-username/image-classifier) |
+| <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="160" alt="Image Classifier"/> | **🖼️ Image Classifier** | CNN-based model . [🔗 View Repo](https://github.com/AliRezaKhatibi/15-Class-CNN-Classifier) |
 | <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="160" alt="Object Detection"/> | **🚘 Object Detection** | Real-time YOLOv5 detection system for autonomous vehicles. [🔗 View Repo](https://github.com/your-username/object-detection) |
 | <img src="https://media.giphy.com/media/3o7TKsQ8k8b3oH6zC8/giphy.gif" width="160" alt="NLP"/> | **💬 Sentiment Analysis** | Transformer-based BERT model analyzing emotions from tweets. [🔗 View Repo](https://github.com/your-username/sentiment-analysis) |
 | <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="160" alt="GAN"/> | **🎨 Generative Art GAN** | Generative Adversarial Network creating synthetic artwork. [🔗 View Repo](https://github.com/your-username/gan-art) |
