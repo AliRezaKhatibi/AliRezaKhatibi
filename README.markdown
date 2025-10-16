@@ -133,10 +133,10 @@ style G fill:#E6E6FA,stroke:#4a2a9f
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-khatibi78/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgray?logo=github)](https://github.com/AliRezaKhatibi)
 [![Twitter](https://img.shields.io/badge/X-Follow-black?logo=x&logoColor=white)](https://twitter.com/your-profile)
-[![Email](https://img.shields.io/badge/Email-your--email%40example.com-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-your--email%40example.com-D14836?logo=gmail&logoColor=white)](mailto:alireza12arkero@gmail.com)
   
 📫 _Let’s build something extraordinary together!_
 
