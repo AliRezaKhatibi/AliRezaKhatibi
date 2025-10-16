@@ -155,7 +155,7 @@ style G fill:#E6E6FA,stroke:#4a2a9f
 ---
 
 ## 🧾 License & Attribution
-This profile README is © 2025 **Your Name**.  
+This profile README is © 2025 **AliReza Khatibi**.  
 Free for educational and inspirational reuse with attribution.
 
 ---
