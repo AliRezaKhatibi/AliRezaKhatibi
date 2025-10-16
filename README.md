@@ -1,67 +1,139 @@
-## Hi there 👋
+# 👋 Welcome to My AI & Data Science Universe
 
-<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; color: #333;">
+<div align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Waving Hand"/>
 
-  <!-- Animated header section -->
-  <div style="text-align: center; margin-bottom: 30px;">
-    <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="150" style="margin-bottom: 10px;">
-    <h1 style="color: #6e48aa; animation: pulse 2s infinite;">Machine Learning & Deep Learning </h1>
-    <p style="color: #666;">
-      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="20"> 
-      Deep Learning | Computer Vision | AI Solutions
-    </p>
-  </div>
+### 💡 Data Scientist · Deep Learning Engineer · AI Innovator  
 
-  <!-- Skills section with animated icons -->
-  <div style="margin-bottom: 25px;">
-    <h2 style="color: #6e48aa; border-bottom: 2px solid #f0f0f0; padding-bottom: 5px;">
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Core Skills
-    </h2>
-    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; margin-top: 15px;">
-      <div style="background: #f9f9f9; padding: 10px; border-radius: 5px; display: flex; align-items: center; transition: transform 0.3s ease;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" style="margin-right: 10px; animation: bounce 2s infinite;">
-        <span>Python</span>
-      </div>
-      <div style="background: #f9f9f9; padding: 10px; border-radius: 5px; display: flex; align-items: center; transition: transform 0.3s ease;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="24" style="margin-right: 10px; animation: bounce 2s infinite 0.2s;">
-        <span>TensorFlow</span>
-      </div>
-      </div>
-      <div style="background: #f9f9f9; padding: 10px; border-radius: 5px; display: flex; align-items: center; transition: transform 0.3s ease;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="24" style="margin-right: 10px; animation: bounce 2s infinite 0.6s;">
-        <span>NumPy</span>
-      </div>
-      <div style="background: #f9f9f9; padding: 10px; border-radius: 5px; display: flex; align-items: center; transition: transform 0.3s ease;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="24" style="margin-right: 10px; animation: bounce 2s infinite 0.8s;">
-        <span>Pandas</span>
-      </div>
-    </div>
-  </div>
+Building intelligent systems that see, understand, and predict the world.  
+Turning **data** into **insight**, **algorithms** into **impact**, and **models** into **real-world solutions**.
 
-  <!-- ML Expertise with animated list -->
-  <div style="margin-bottom: 25px;">
-    <h2 style="color: #6e48aa; border-bottom: 2px solid #f0f0f0; padding-bottom: 5px;">
-      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> ML Expertise
-    </h2>
-    <ul style="padding-left: 20px;">
-      <li style="animation: fadeIn 1s ease-in;">Deep Neural Networks (CNNs,...)</li>
-      <li style="animation: fadeIn 1s ease-in 0.2s;">Computer Vision (Object Detection, Image Segmentation)</li>
-      <li style="animation: fadeIn 1s ease-in 0.6s;">Model Optimization & Deployment</li>
-    </ul>
-  </div>
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/X-@yourhandle-black?logo=x)](https://twitter.com/your-profile)
+[![Mail](https://img.shields.io/badge/Email-Contact_me-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+</div>
 
-  <!-- Animated project cards -->
-  <div style="background: #f5f5f5; padding: 20px; border-radius: 8px; text-align: center;">
-    <h3 style="margin-top: 0; color: #6e48aa;">
-      <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30"> Featured Projects:
-    </h3>
-    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
-      <div style="background: white; padding: 15px; border-radius: 5px; width: 200px; animation: float 3s ease-in-out infinite;">
-        <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100" style="margin-bottom: 10px;">
-        <p style="margin: 0; font-weight: bold;"> Image Classifier</p>
-      </div>
-      <div style="background: white; padding: 15px; border-radius: 5px; width: 200px; animation: float 3s ease-in-out infinite 0.5s;">
-        <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100" style="margin-bottom: 10px;">
-      </div>
-    </div>
-  </div>
+---
+
+## 🧠 About Me
+
+I am a **Data Scientist and AI Researcher** passionate about designing intelligent, data-driven solutions.  
+I specialize in:
+
+- 🧩 Deep Learning architectures (CNNs, LSTMs, Transformers)  
+- 🧠 Computer Vision and Visual Intelligence  
+- 💬 Natural Language Processing (BERT, GPT)  
+- 🔢 Predictive Modeling and Statistical Learning  
+- ☁️ Cloud ML Deployment and MLOps  
+- 📈 Scalable Data Engineering and Visualization
+
+---
+
+## ⚙️ Core Tech Stack
+
+| Category | Technologies |
+|:---------:|:-------------|
+| **Languages** | Python 🐍 · R 📊 · SQL 🧮 · Bash 🖥️ |
+| **Frameworks** | TensorFlow · PyTorch · Scikit-Learn · FastAPI |
+| **Data Engineering** | Pandas · NumPy · Spark · Airflow |
+| **Computer Vision** | OpenCV · YOLOv5 · Detectron2 · U-Net |
+| **Cloud & DevOps** | Docker · Kubernetes · AWS · GCP · GitHub Actions |
+| **Visualization** | Matplotlib · Plotly · Tableau · Power BI |
+
+---
+
+## 📊 Skill Level Overview
+
+```mermaid
+pie title Technical Expertise
+  "Deep Learning": 30
+  "Machine Learning": 25
+  "Computer Vision": 20
+  "NLP": 15
+  "Data Engineering": 10
+```
+
+---
+
+## 🚀 Featured Projects
+
+| 🧩 Preview | 🧠 Project | 🔍 Description |
+|-------------|-------------|----------------|
+| <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="160" alt="Image Classifier"/> | **🖼️ Image Classifier** | CNN-based model achieving **95%+ accuracy** across 10 classes. [🔗 View Repo](https://github.com/your-username/image-classifier) |
+| <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="160" alt="Object Detection"/> | **🚘 Object Detection** | Real-time YOLOv5 detection system for autonomous vehicles. [🔗 View Repo](https://github.com/your-username/object-detection) |
+| <img src="https://media.giphy.com/media/3o7TKsQ8k8b3oH6zC8/giphy.gif" width="160" alt="NLP"/> | **💬 Sentiment Analysis** | Transformer-based BERT model analyzing emotions from tweets. [🔗 View Repo](https://github.com/your-username/sentiment-analysis) |
+| <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="160" alt="GAN"/> | **🎨 Generative Art GAN** | Generative Adversarial Network creating synthetic artwork. [🔗 View Repo](https://github.com/your-username/gan-art) |
+
+---
+
+## 🧬 AI Domains I Work In
+
+```mermaid
+graph LR
+A[Data Collection] --> B[Preprocessing]
+B --> C[Feature Engineering]
+C --> D[Modeling]
+D --> E[Evaluation]
+E --> F[Deployment]
+F --> G[Monitoring & Feedback]
+style A fill:#E6E6FA,stroke:#4a2a9f
+style G fill:#E6E6FA,stroke:#4a2a9f
+```
+
+---
+
+## 🧩 My Current Research Focus
+
+- **Dynamic Graph Neural Networks (DGNNs)** for evolving data streams  
+- **Hybrid CNN-Markov Models** for medical imaging  
+- **Explainable AI (XAI)** for interpretability in healthcare AI  
+- **Transfer Learning on Multi-Modal Data** (vision + text)  
+- **Federated Learning** for privacy-preserving AI
+
+---
+
+## 📈 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight)
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" alt="AWS"/>
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgray?logo=github)](https://github.com/your-username)
+[![Twitter](https://img.shields.io/badge/X-Follow-black?logo=x&logoColor=white)](https://twitter.com/your-profile)
+[![Email](https://img.shields.io/badge/Email-your--email%40example.com-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+📫 _Let’s build something extraordinary together!_
+
+---
+
+## 🧩 Fun Facts
+
+- 🧠 I think in vectors, visualize in matrices, and dream in neural networks.  
+- ☕ Coffee + Jupyter Notebook = Perfect Morning.  
+- 🌌 Currently exploring generative models inspired by physics.
+
+---
+
+## 🧾 License & Attribution
+
+This profile README is © 2025 **Your Name**.  
+Free for educational and inspirational reuse with attribution.
