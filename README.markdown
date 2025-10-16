@@ -13,7 +13,7 @@ Turning **data** into **insight**, **algorithms** into **impact**, and **models*
 [![GitHub followers](https://img.shields.io/github/followers/AliRezaKhatibi?label=Followers&style=social)](https://github.com/AliRezaKhatibi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/alireza-khatibi78/)
 [![X](https://img.shields.io/badge/X-@yourhandle-black?logo=x)](https://x.com/your-profile)
-[![Mail](https://img.shields.io/badge/Email-Contact_me-D14836?logo=gmail&logoColor=white)](alireza12arkero@gmail.com)
+[![Mail](https://img.shields.io/badge/Email-Contact_me-D14836?logo=gmail&logoColor=white)](https://mail.google.com/alireza12arkero@gmail.com)
 
 ---
 
