@@ -9,20 +9,16 @@
 
 <div align="center">
 
-  <img
-    src="https://raw.githubusercontent.com/AliRezaKhatibi/AliRezaKhatibi/main/assets/profile-banner.svg"
-    width="100%"
-    alt="AliReza Khatibi | AI Research & Computer Vision"
-  />
+  <img src="https://raw.githubusercontent.com/AliRezaKhatibi/AliRezaKhatibi/main/assets/profile-banner.svg" width="100%" alt="AliReza Khatibi | AI Research & Computer Vision" />
 
   <br />
 
   <a href="https://github.com/AliRezaKhatibi?tab=followers">
-    <img src="https://img.shields.io/github/followers/AliRezaKhatibi?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=101827&color=13B8AE" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/AliRezaKhatibi?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=101827&color=13B8AE" alt="GitHub Followers" />
   </a>
 
   <a href="https://github.com/AliRezaKhatibi?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-D5AF69?style=for-the-badge&logo=github&labelColor=101827" alt="Repositories" />
+    <img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-D5AF69?style=for-the-badge&logo=github&labelColor=101827" alt="Explore Repositories" />
   </a>
 
   <a href="https://www.linkedin.com/in/alireza-khatibi78/">
@@ -51,9 +47,29 @@ I'm **AliReza Khatibi**, an AI researcher and developer focused on the intersect
 I work across the research-to-application pipeline: designing experiments, evaluating models, optimizing inference, and building interfaces that make intelligent systems usable.
 
 - 🔭 **Current Focus:** Detecting tiny people in aerial imagery, multi-object tracking, robust identity association, and practical real-time inference.
-- 🧪 **Research Toolkit:** Controlled experiments, reproducible benchmarks, detection and tracking metrics, and accuracy-latency trade-offs.
+- 🧪 **Research Toolkit:** Controlled experiments, reproducible benchmarks, detection/tracking metrics, and accuracy-latency trade-offs.
 - 🛠️ **Beyond Notebooks:** Desktop tools, data quality workflows, model deployment, and AI-driven applications.
 - 🤝 **Team:** XVARNA | Open to research and engineering collaboration.
+
+---
+
+## 🧠 Neural Network Flow
+
+<div align="center">
+
+  <img
+    src="https://raw.githubusercontent.com/AliRezaKhatibi/AliRezaKhatibi/main/assets/neural-network-animated.svg"
+    width="100%"
+    alt="Animated Neural Network: Signal Propagation from Input to Output"
+  />
+
+  <br />
+
+  <sub>
+    Watch information travel through the layers, from raw features to predictions.
+  </sub>
+
+</div>
 
 ---
 
@@ -121,7 +137,7 @@ I work across the research-to-application pipeline: designing experiments, evalu
   <tr>
     <td width="50%" valign="top">
       <h3>🚢 <a href="https://github.com/AliRezaKhatibi/titanic-survival-prediction">Titanic Survival Prediction</a></h3>
-      <p>An end-to-end tabular machine learning project with feature engineering, model comparisons, tuning, and evaluation.</p>
+      <p>An end-to-end tabular ML project with feature engineering, model comparisons, tuning, and evaluation.</p>
       <p>
         <code>Scikit-learn</code>
         <code>XGBoost</code>
@@ -208,7 +224,7 @@ _This section is populated from public repository push timestamps when the inclu
 
   <br />
 
-  The following repositories are included in the initial directory. The GitHub Actions updater can refresh this section with the complete public repository list.
+  The following repositories have been included in the initial directory. The GitHub Actions updater can refresh this section with the full public repository list.
 
   | Repository | Focus |
   |:--|:--|
@@ -268,26 +284,8 @@ _This section is populated from public repository push timestamps when the inclu
 
 <br />
 
-<div align="center">
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliRezaKhatibi&theme=tokyonight"
-    width="46%"
-    alt="GitHub Summary Statistics"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliRezaKhatibi&theme=tokyonight"
-    width="46%"
-    alt="Languages by Repository"
-  />
-
-</div>
-
-<br />
-
 <sub>
-GitHub statistics are provided by third-party services and may occasionally be unavailable. Programming language distributions reflect repository content, not personal proficiency.
+GitHub statistics are supplied by third-party services and may occasionally be unavailable. Programming language distributions reflect repository content, not personal proficiency.
 </sub>
 
 ---
