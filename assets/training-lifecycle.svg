@@ -26,11 +26,11 @@
   <circle r="8" fill="#D5AF69" filter="url(#glow)"><animateMotion dur="5.2s" repeatCount="indefinite"><mpath href="#loopPath"/></animateMotion></circle>
 
   <g>
-    <g transform="translate(600 75)"><circle r="44" class="node"/><text text-anchor="middle" y="-3" class="lab">Data</text><text text-anchor="middle" y="16" class="small">Collection & Prep</text></g>
+    <g transform="translate(600 75)"><circle r="44" class="node"/><text text-anchor="middle" y="-3" class="lab">Data</text><text text-anchor="middle" y="16" class="small">Collection &amp; Prep</text></g>
     <g transform="translate(790 140)"><circle r="44" class="node"/><text text-anchor="middle" y="-3" class="lab">Train</text><text text-anchor="middle" y="16" class="small">Fit the model</text></g>
-    <g transform="translate(790 310)"><circle r="44" class="node"/><text text-anchor="middle" y="-3" class="lab">Evaluate</text><text text-anchor="middle" y="16" class="small">Metrics & Errors</text></g>
-    <g transform="translate(600 370)"><circle r="44" class="node"/><text text-anchor="middle" y="-3" class="lab">Optimize</text><text text-anchor="middle" y="16" class="small">Tune & Compress</text></g>
-    <g transform="translate(410 310)"><circle r="44" class="node"/><text text-anchor="middle" y="-3" class="lab">Deploy</text><text text-anchor="middle" y="16" class="small">Serve & Integrate</text></g>
+    <g transform="translate(790 310)"><circle r="44" class="node"/><text text-anchor="middle" y="-3" class="lab">Evaluate</text><text text-anchor="middle" y="16" class="small">Metrics &amp; Errors</text></g>
+    <g transform="translate(600 370)"><circle r="44" class="node"/><text text-anchor="middle" y="-3" class="lab">Optimize</text><text text-anchor="middle" y="16" class="small">Tune &amp; Compress</text></g>
+    <g transform="translate(410 310)"><circle r="44" class="node"/><text text-anchor="middle" y="-3" class="lab">Deploy</text><text text-anchor="middle" y="16" class="small">Serve &amp; Integrate</text></g>
     <g transform="translate(410 140)"><circle r="44" class="node"/><text text-anchor="middle" y="-3" class="lab">Monitor</text><text text-anchor="middle" y="16" class="small">Feedback loop</text></g>
   </g>
 
