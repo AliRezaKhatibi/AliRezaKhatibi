@@ -1,0 +1,76 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420"><stop offset="0%" stop-color="#09111F"/><stop offset="100%" stop-color="#0F1A2C"/></linearGradient>
+    <linearGradient id="cyanGold" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#14B8A6"/><stop offset="100%" stop-color="#D5AF69"/></linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .title{font-family:Segoe UI,Arial,sans-serif;font-size:28px;font-weight:700;fill:#E6EEF9}.sub{font-family:Segoe UI,Arial,sans-serif;font-size:14px;fill:#9DB2C6}.lab{font-family:Segoe UI,Arial,sans-serif;font-size:15px;font-weight:600;fill:#DFE9F4}.small{font-family:Segoe UI,Arial,sans-serif;font-size:12px;fill:#8CA2B7}
+      .card{fill:#111D31;stroke:#17344B;stroke-width:1.5}.screen{fill:#0C1628;stroke:#21415B;stroke-width:1.4}.arrow{stroke:url(#cyanGold);stroke-width:3.2;stroke-linecap:round;stroke-dasharray:14 10}.box1{fill:none;stroke:#20D0CB;stroke-width:2.5}.box2{fill:none;stroke:#D5AF69;stroke-width:2.5}.trk{fill:none;stroke:#7EE7E0;stroke-width:2;stroke-dasharray:6 8}.node{fill:#16314A;stroke:#1FCAC5;stroke-width:2}
+    </style>
+    <marker id="m" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#D5AF69"/></marker>
+  </defs>
+  <rect width="1200" height="420" rx="24" fill="url(#bg)"/>
+  <rect x="12" y="12" width="1176" height="396" rx="18" stroke="#173349" opacity=".95"/>
+  <text x="60" y="58" class="title">Computer Vision Pipeline</text>
+  <text x="60" y="85" class="sub">Capture → Detect → Track → Analyze · Aerial Vision · Multi-object Tracking · Applied AI</text>
+
+  <g transform="translate(70 115)">
+    <rect width="240" height="220" rx="18" class="card"/>
+    <text x="20" y="28" class="lab">1. Capture / Input</text>
+    <rect x="20" y="48" width="200" height="140" rx="12" class="screen"/>
+    <rect x="52" y="78" width="42" height="30" rx="6" stroke="#7EE7E0" stroke-width="2" fill="none"/>
+    <rect x="122" y="112" width="34" height="46" rx="6" stroke="#D5AF69" stroke-width="2" fill="none"/>
+    <path d="M24 180C70 150 96 135 126 145C155 154 185 132 216 98" stroke="#1F7AA8" stroke-width="3" opacity=".5" fill="none"/>
+    <circle cx="64" cy="74" r="10" fill="#173B56" stroke="#20D0CB" stroke-width="2"/>
+    <path d="M64 64L64 55" stroke="#20D0CB" stroke-width="2"/>
+    <path d="M59 69L52 64" stroke="#20D0CB" stroke-width="2"/>
+    <path d="M69 69L76 64" stroke="#20D0CB" stroke-width="2"/>
+    <text x="20" y="206" class="small">Frame acquisition from UAV / camera source</text>
+  </g>
+
+  <g transform="translate(355 115)">
+    <rect width="240" height="220" rx="18" class="card"/>
+    <text x="20" y="28" class="lab">2. Detection</text>
+    <rect x="20" y="48" width="200" height="140" rx="12" class="screen"/>
+    <rect x="46" y="76" width="50" height="34" rx="6" class="box1"/>
+    <rect x="126" y="103" width="40" height="52" rx="6" class="box2"/>
+    <rect x="168" y="65" width="24" height="24" rx="4" class="box1"/>
+    <text x="48" y="72" class="small">person 0.96</text>
+    <text x="124" y="99" class="small">person 0.91</text>
+    <text x="20" y="206" class="small">Object localization with confidence scores</text>
+  </g>
+
+  <g transform="translate(640 115)">
+    <rect width="240" height="220" rx="18" class="card"/>
+    <text x="20" y="28" class="lab">3. Tracking</text>
+    <rect x="20" y="48" width="200" height="140" rx="12" class="screen"/>
+    <path d="M55 160C65 145 75 130 80 115C87 98 95 85 115 76" class="trk"/>
+    <path d="M150 160C160 145 168 128 171 110C173 95 185 82 198 74" stroke="#E0BE80" stroke-width="2" stroke-dasharray="6 8" fill="none"/>
+    <circle cx="80" cy="115" r="8" fill="#20D0CB" filter="url(#glow)"/>
+    <circle cx="171" cy="110" r="8" fill="#E0BE80" filter="url(#glow)"/>
+    <rect x="105" y="68" width="18" height="18" rx="4" stroke="#20D0CB" stroke-width="2" fill="none"/>
+    <rect x="189" y="66" width="18" height="18" rx="4" stroke="#D5AF69" stroke-width="2" fill="none"/>
+    <text x="96" y="64" class="small">ID 07</text>
+    <text x="182" y="61" class="small">ID 12</text>
+    <text x="20" y="206" class="small">Identity association across frames</text>
+  </g>
+
+  <g transform="translate(925 115)">
+    <rect width="210" height="220" rx="18" class="card"/>
+    <text x="20" y="28" class="lab">4. Insights</text>
+    <rect x="20" y="48" width="170" height="140" rx="12" class="screen"/>
+    <path d="M38 154L62 138L82 145L106 117L130 102L154 78" stroke="#20D0CB" stroke-width="3" fill="none"/>
+    <path d="M38 155H158" stroke="#35536E" stroke-width="1"/>
+    <path d="M38 80V155" stroke="#35536E" stroke-width="1"/>
+    <circle cx="62" cy="138" r="4" fill="#20D0CB"/><circle cx="106" cy="117" r="4" fill="#20D0CB"/><circle cx="154" cy="78" r="4" fill="#D5AF69"/>
+    <text x="32" y="202" class="small">Metrics, counts, alerts and reporting</text>
+  </g>
+
+  <path id="a1" d="M310 225C325 225 336 225 355 225" class="arrow" marker-end="url(#m)"/>
+  <path id="a2" d="M595 225C610 225 621 225 640 225" class="arrow" marker-end="url(#m)"/>
+  <path id="a3" d="M880 225C895 225 906 225 925 225" class="arrow" marker-end="url(#m)"/>
+
+  <circle r="6" fill="#20D0CB" filter="url(#glow)"><animateMotion dur="2.4s" repeatCount="indefinite"><mpath href="#a1"/></animateMotion></circle>
+  <circle r="6" fill="#D5AF69" filter="url(#glow)"><animateMotion dur="2.8s" repeatCount="indefinite"><mpath href="#a2"/></animateMotion></circle>
+  <circle r="6" fill="#20D0CB" filter="url(#glow)"><animateMotion dur="3.0s" repeatCount="indefinite"><mpath href="#a3"/></animateMotion></circle>
+</svg>

@@ -1,0 +1,30 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgd" x1="0" y1="0" x2="1200" y2="420"><stop offset="0%" stop-color="#08101D"/><stop offset="100%" stop-color="#10192A"/></linearGradient>
+    <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#14B8A6"/><stop offset="100%" stop-color="#D5AF69"/></linearGradient>
+    <filter id="g" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .title{font-family:Segoe UI,Arial,sans-serif;font-size:28px;font-weight:700;fill:#E6EEF9}.sub{font-family:Segoe UI,Arial,sans-serif;font-size:14px;fill:#9DB2C6}.lab{font-family:Segoe UI,Arial,sans-serif;font-size:16px;font-weight:700;fill:#E3EBF5}.small{font-family:Segoe UI,Arial,sans-serif;font-size:12px;fill:#8CA2B7}
+      .card{fill:#111E31;stroke:#17344B;stroke-width:1.5}.path{fill:none;stroke:url(#flow);stroke-width:6;stroke-linecap:round;opacity:.7}.mini{fill:#102335;stroke:#19C7C1;stroke-width:2}
+    </style>
+  </defs>
+  <rect width="1200" height="420" rx="24" fill="url(#bgd)"/>
+  <rect x="12" y="12" width="1176" height="396" rx="18" stroke="#173349" opacity=".95"/>
+  <text x="60" y="58" class="title">Data Intelligence Stream</text>
+  <text x="60" y="85" class="sub">Raw data → cleaning → features → modeling → insight · Data science and applied analytics workflow</text>
+
+  <g transform="translate(60 145)"><rect width="180" height="130" rx="18" class="card"/><text x="20" y="30" class="lab">Raw Data</text><text x="20" y="55" class="small">CSV · Images · Logs</text><g transform="translate(20 76)"><rect width="18" height="34" rx="4" fill="#1E425E"/><rect x="30" y="56" width="18" height="54" rx="4" fill="#22506F" transform="translate(0 -36)"/><rect x="60" y="24" width="18" height="86" rx="4" fill="#2A6589" transform="translate(0 -4)"/><rect x="90" y="42" width="18" height="68" rx="4" fill="#2E759E" transform="translate(0 -16)"/></g></g>
+  <g transform="translate(285 145)"><rect width="180" height="130" rx="18" class="card"/><text x="20" y="30" class="lab">Cleaning</text><text x="20" y="55" class="small">Missing values · Quality checks</text><circle cx="46" cy="90" r="18" class="mini"/><path d="M37 90l6 6 12-12" stroke="#20D0CB" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <g transform="translate(510 145)"><rect width="180" height="130" rx="18" class="card"/><text x="20" y="30" class="lab">Features</text><text x="20" y="55" class="small">Extraction · Engineering</text><g transform="translate(22 78)"><rect width="24" height="24" rx="5" fill="#1C3A55"/><rect x="32" width="24" height="24" rx="5" fill="#22506F"/><rect x="64" width="24" height="24" rx="5" fill="#2A6589"/><rect x="96" width="24" height="24" rx="5" fill="#D5AF69" opacity=".8"/></g></g>
+  <g transform="translate(735 145)"><rect width="180" height="130" rx="18" class="card"/><text x="20" y="30" class="lab">Modeling</text><text x="20" y="55" class="small">ML · DL · Evaluation</text><path d="M28 102C45 88 58 84 70 90C81 95 95 89 112 73C125 61 140 58 155 62" stroke="#20D0CB" stroke-width="3" fill="none"/><circle cx="70" cy="90" r="5" fill="#20D0CB"/><circle cx="112" cy="73" r="5" fill="#D5AF69"/></g>
+  <g transform="translate(960 145)"><rect width="180" height="130" rx="18" class="card"/><text x="20" y="30" class="lab">Insight</text><text x="20" y="55" class="small">Decision support · Reporting</text><path d="M28 98L60 82L90 90L125 66L150 52" stroke="#D5AF69" stroke-width="3" fill="none"/><circle cx="150" cy="52" r="6" fill="#D5AF69" filter="url(#g)"/></g>
+
+  <path id="d1" d="M240 210C255 210 265 210 285 210" class="path"/>
+  <path id="d2" d="M465 210C480 210 490 210 510 210" class="path"/>
+  <path id="d3" d="M690 210C705 210 715 210 735 210" class="path"/>
+  <path id="d4" d="M915 210C930 210 940 210 960 210" class="path"/>
+  <circle r="7" fill="#20D0CB" filter="url(#g)"><animateMotion dur="2.6s" repeatCount="indefinite"><mpath href="#d1"/></animateMotion></circle>
+  <circle r="7" fill="#D5AF69" filter="url(#g)"><animateMotion dur="2.9s" repeatCount="indefinite"><mpath href="#d2"/></animateMotion></circle>
+  <circle r="7" fill="#20D0CB" filter="url(#g)"><animateMotion dur="3.2s" repeatCount="indefinite"><mpath href="#d3"/></animateMotion></circle>
+  <circle r="7" fill="#D5AF69" filter="url(#g)"><animateMotion dur="3.4s" repeatCount="indefinite"><mpath href="#d4"/></animateMotion></circle>
+</svg>

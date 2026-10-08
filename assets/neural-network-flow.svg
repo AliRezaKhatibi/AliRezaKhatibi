@@ -1,0 +1,55 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0A1220"/>
+      <stop offset="100%" stop-color="#101827"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18C5C1"/>
+      <stop offset="100%" stop-color="#D9B36C"/>
+    </linearGradient>
+    <filter id="glowCyan" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowGold" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .t{font-family:Segoe UI,Arial,sans-serif;fill:#E6EEF9}
+      .h{font-size:28px;font-weight:700}.s{font-size:14px;fill:#9EB4C9}.l{font-size:15px;font-weight:600}.sm{font-size:12px;fill:#8EA4B8}
+      .edge{stroke:url(#lineGrad);stroke-width:2.2;opacity:.32}.n1{fill:#102033;stroke:#18C5C1;stroke-width:2.6}.n2{fill:#132136;stroke:#57DCD7;stroke-width:2.6}.n3{fill:#1B2436;stroke:#D9B36C;stroke-width:2.6}
+      .p1{fill:#20D0CB;filter:url(#glowCyan)} .p2{fill:#E9C98D;filter:url(#glowGold)}
+    </style>
+  </defs>
+  <rect width="1200" height="420" rx="24" fill="url(#bgGrad)"/>
+  <rect x="12" y="12" width="1176" height="396" rx="18" stroke="#173349" opacity=".95"/>
+  <g opacity=".06" stroke="#B6D8FF">
+    <path d="M80 0V420"/><path d="M180 0V420"/><path d="M280 0V420"/><path d="M380 0V420"/><path d="M480 0V420"/><path d="M580 0V420"/><path d="M680 0V420"/><path d="M780 0V420"/><path d="M880 0V420"/><path d="M980 0V420"/><path d="M1080 0V420"/>
+    <path d="M0 70H1200"/><path d="M0 140H1200"/><path d="M0 210H1200"/><path d="M0 280H1200"/><path d="M0 350H1200"/>
+  </g>
+  <text x="60" y="58" class="t h">Neural Network Flow</text>
+  <text x="60" y="85" class="t s">Signal propagation through layers · Deep Learning · Feature transformation · Decision output</text>
+  <text x="112" y="120" class="t l">Input Layer</text>
+  <text x="470" y="120" class="t l">Hidden Layers</text>
+  <text x="930" y="120" class="t l">Output Layer</text>
+  <g>
+    <path id="n1" class="edge" d="M180 150 L380 110"/><path id="n2" class="edge" d="M180 150 L380 180"/><path id="n3" class="edge" d="M180 150 L380 250"/><path id="n4" class="edge" d="M180 150 L380 320"/>
+    <path id="n5" class="edge" d="M180 220 L380 110"/><path id="n6" class="edge" d="M180 220 L380 180"/><path id="n7" class="edge" d="M180 220 L380 250"/><path id="n8" class="edge" d="M180 220 L380 320"/>
+    <path id="n9" class="edge" d="M180 290 L380 110"/><path id="n10" class="edge" d="M180 290 L380 180"/><path id="n11" class="edge" d="M180 290 L380 250"/><path id="n12" class="edge" d="M180 290 L380 320"/>
+    <path id="n13" class="edge" d="M430 110 L640 130"/><path id="n14" class="edge" d="M430 110 L640 210"/><path id="n15" class="edge" d="M430 110 L640 290"/>
+    <path id="n16" class="edge" d="M430 180 L640 130"/><path id="n17" class="edge" d="M430 180 L640 210"/><path id="n18" class="edge" d="M430 180 L640 290"/>
+    <path id="n19" class="edge" d="M430 250 L640 130"/><path id="n20" class="edge" d="M430 250 L640 210"/><path id="n21" class="edge" d="M430 250 L640 290"/>
+    <path id="n22" class="edge" d="M430 320 L640 130"/><path id="n23" class="edge" d="M430 320 L640 210"/><path id="n24" class="edge" d="M430 320 L640 290"/>
+    <path id="n25" class="edge" d="M690 130 L950 170"/><path id="n26" class="edge" d="M690 130 L950 250"/><path id="n27" class="edge" d="M690 210 L950 170"/><path id="n28" class="edge" d="M690 210 L950 250"/><path id="n29" class="edge" d="M690 290 L950 170"/><path id="n30" class="edge" d="M690 290 L950 250"/>
+  </g>
+  <g><circle cx="150" cy="150" r="30" class="n1"/><circle cx="150" cy="220" r="30" class="n1"/><circle cx="150" cy="290" r="30" class="n1"/></g>
+  <g><circle cx="405" cy="110" r="25" class="n2"/><circle cx="405" cy="180" r="25" class="n2"/><circle cx="405" cy="250" r="25" class="n2"/><circle cx="405" cy="320" r="25" class="n2"/></g>
+  <g><circle cx="665" cy="130" r="28" class="n2"/><circle cx="665" cy="210" r="28" class="n2"/><circle cx="665" cy="290" r="28" class="n2"/></g>
+  <g><circle cx="980" cy="170" r="32" class="n3"/><circle cx="980" cy="250" r="32" class="n3"/></g>
+  <g opacity=".9"><circle cx="150" cy="150" r="9" fill="#20C7C3"/><circle cx="150" cy="220" r="9" fill="#20C7C3"/><circle cx="150" cy="290" r="9" fill="#20C7C3"/><circle cx="405" cy="110" r="7" fill="#86E8E2"/><circle cx="405" cy="180" r="7" fill="#86E8E2"/><circle cx="405" cy="250" r="7" fill="#86E8E2"/><circle cx="405" cy="320" r="7" fill="#86E8E2"/><circle cx="665" cy="130" r="8" fill="#86E8E2"/><circle cx="665" cy="210" r="8" fill="#86E8E2"/><circle cx="665" cy="290" r="8" fill="#86E8E2"/><circle cx="980" cy="170" r="10" fill="#F1D69F"/><circle cx="980" cy="250" r="10" fill="#F1D69F"/></g>
+  <g><circle r="6" class="p1"><animateMotion dur="3s" repeatCount="indefinite"><mpath href="#n1"/></animateMotion></circle><circle r="5" class="p1"><animateMotion dur="3.6s" repeatCount="indefinite"><mpath href="#n6"/></animateMotion></circle><circle r="6" class="p1"><animateMotion dur="2.8s" repeatCount="indefinite"><mpath href="#n11"/></animateMotion></circle><circle r="5" class="p1"><animateMotion dur="3.3s" repeatCount="indefinite"><mpath href="#n13"/></animateMotion></circle><circle r="6" class="p1"><animateMotion dur="3.1s" repeatCount="indefinite"><mpath href="#n17"/></animateMotion></circle><circle r="5" class="p1"><animateMotion dur="3.5s" repeatCount="indefinite"><mpath href="#n24"/></animateMotion></circle><circle r="6" class="p2"><animateMotion dur="2.9s" repeatCount="indefinite"><mpath href="#n25"/></animateMotion></circle><circle r="6" class="p2"><animateMotion dur="3.4s" repeatCount="indefinite"><mpath href="#n30"/></animateMotion></circle></g>
+  <g opacity=".30"><circle cx="405" cy="180" r="34" fill="#14B8A6"><animate attributeName="opacity" values="0.08;0.30;0.08" dur="2.4s" repeatCount="indefinite"/></circle><circle cx="665" cy="210" r="38" fill="#20C7C3"><animate attributeName="opacity" values="0.08;0.26;0.08" dur="2.8s" repeatCount="indefinite"/></circle><circle cx="980" cy="170" r="42" fill="#D5AF69"><animate attributeName="opacity" values="0.08;0.23;0.08" dur="2.1s" repeatCount="indefinite"/></circle></g>
+  <text x="82" y="382" class="t sm">Input Features</text><text x="350" y="382" class="t sm">Feature Extraction</text><text x="615" y="382" class="t sm">Representation Learning</text><text x="926" y="382" class="t sm">Prediction / Decision</text>
+</svg>

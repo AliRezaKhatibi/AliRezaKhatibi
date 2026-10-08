@@ -1,0 +1,45 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgg" x1="0" y1="0" x2="1200" y2="420"><stop offset="0%" stop-color="#0A1220"/><stop offset="100%" stop-color="#111A2A"/></linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#18C5C1"/><stop offset="100%" stop-color="#D7B270"/></linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .title{font-family:Segoe UI,Arial,sans-serif;font-size:28px;font-weight:700;fill:#E6EEF9}.sub{font-family:Segoe UI,Arial,sans-serif;font-size:14px;fill:#9DB2C6}.lab{font-family:Segoe UI,Arial,sans-serif;font-size:16px;font-weight:700;fill:#E1EAF5}.small{font-family:Segoe UI,Arial,sans-serif;font-size:12px;fill:#8CA2B7}
+      .node{fill:#111E31;stroke:url(#ring);stroke-width:2.8}.line{stroke:url(#ring);stroke-width:4;stroke-linecap:round;stroke-dasharray:16 12;opacity:.85}
+    </style>
+    <marker id="am" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#D5AF69"/></marker>
+  </defs>
+  <rect width="1200" height="420" rx="24" fill="url(#bgg)"/>
+  <rect x="12" y="12" width="1176" height="396" rx="18" stroke="#173349" opacity=".95"/>
+  <text x="60" y="58" class="title">Model Training Lifecycle</text>
+  <text x="60" y="85" class="sub">Prepare → Train → Evaluate → Optimize → Deploy → Monitor · Iterative AI development loop</text>
+
+  <g transform="translate(600 225)">
+    <circle r="132" fill="none" stroke="#163247" stroke-width="20" opacity=".35"/>
+    <circle r="132" fill="none" stroke="url(#ring)" stroke-width="10" stroke-linecap="round" stroke-dasharray="560 270">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <path id="loopPath" d="M600 93A132 132 0 1 1 599.9 93" fill="none"/>
+  <circle r="8" fill="#20D0CB" filter="url(#glow)"><animateMotion dur="4s" repeatCount="indefinite"><mpath href="#loopPath"/></animateMotion></circle>
+  <circle r="8" fill="#D5AF69" filter="url(#glow)"><animateMotion dur="5.2s" repeatCount="indefinite"><mpath href="#loopPath"/></animateMotion></circle>
+
+  <g>
+    <g transform="translate(600 75)"><circle r="44" class="node"/><text text-anchor="middle" y="-3" class="lab">Data</text><text text-anchor="middle" y="16" class="small">Collection & Prep</text></g>
+    <g transform="translate(790 140)"><circle r="44" class="node"/><text text-anchor="middle" y="-3" class="lab">Train</text><text text-anchor="middle" y="16" class="small">Fit the model</text></g>
+    <g transform="translate(790 310)"><circle r="44" class="node"/><text text-anchor="middle" y="-3" class="lab">Evaluate</text><text text-anchor="middle" y="16" class="small">Metrics & Errors</text></g>
+    <g transform="translate(600 370)"><circle r="44" class="node"/><text text-anchor="middle" y="-3" class="lab">Optimize</text><text text-anchor="middle" y="16" class="small">Tune & Compress</text></g>
+    <g transform="translate(410 310)"><circle r="44" class="node"/><text text-anchor="middle" y="-3" class="lab">Deploy</text><text text-anchor="middle" y="16" class="small">Serve & Integrate</text></g>
+    <g transform="translate(410 140)"><circle r="44" class="node"/><text text-anchor="middle" y="-3" class="lab">Monitor</text><text text-anchor="middle" y="16" class="small">Feedback loop</text></g>
+  </g>
+
+  <g opacity=".85">
+    <path id="tl1" d="M648 99C710 108 746 117 770 140" class="line" marker-end="url(#am)"/>
+    <path id="tl2" d="M818 177C828 223 828 253 818 276" class="line" marker-end="url(#am)"/>
+    <path id="tl3" d="M770 338C725 356 673 366 648 365" class="line" marker-end="url(#am)"/>
+    <path id="tl4" d="M551 365C500 359 453 344 430 323" class="line" marker-end="url(#am)"/>
+    <path id="tl5" d="M382 277C372 235 372 207 382 172" class="line" marker-end="url(#am)"/>
+    <path id="tl6" d="M430 128C473 102 515 88 552 86" class="line" marker-end="url(#am)"/>
+  </g>
+</svg>
