@@ -173,11 +173,13 @@ flowchart LR
 ## 🕘 Recently Updated Repositories
 
 <!-- RECENT_REPOS:START -->
+_Based on the latest public repository push timestamps; updated automatically._
 
-_This section is populated from public repository push timestamps when the included GitHub Actions workflow runs._
-
-[See all recent activity on GitHub →](https://github.com/AliRezaKhatibi)
-
+- **[aerial-human-detection](https://github.com/AliRezaKhatibi/aerial-human-detection)** · `2026-09-09` · Real-time human detection in aerial imagery using deep learning
+- **[real-time-aerial-human-detection-tracking](https://github.com/AliRezaKhatibi/real-time-aerial-human-detection-tracking)** · `2026-09-09` · A deep learning and computer vision framework for real-time aerial human detection, multi-object tracking, and optimized inference.
+- **[GREEN-Pro](https://github.com/AliRezaKhatibi/GREEN-Pro)** · `2025-12-25` · A professional desktop application for CSV data health analysis, cleaning, visualization, comparison, and reporting.
+- **[graph-mining-pipeline](https://github.com/AliRezaKhatibi/graph-mining-pipeline)** · `2025-11-05` · A full-stack graph mining pipeline: data ingestion → preprocessing → feature extraction → community detection & node embedding → evaluation → interactive visualization. Built with NetworkX, PyG, Node2Vec, Louvain, and Streamlit. Includes Jupyter notebooks, unit tests, CI, and reproducible results.
+- **[titanic-survival-prediction](https://github.com/AliRezaKhatibi/titanic-survival-prediction)** · `2025-10-30` · 🏆 Kaggle Titanic ML Pipeline
 <!-- RECENT_REPOS:END -->
 
 ---
@@ -185,32 +187,33 @@ _This section is populated from public repository push timestamps when the inclu
 ## 🗂️ Complete Repository Directory
 
 <!-- ALL_REPOS:START -->
-
 <details>
-  <summary><b>📂 Explore My Repositories (Automatically Refreshable)</b></summary>
+<summary><b>View all 17 public repositories</b> (including forks and archived projects)</summary>
 
-  <br />
+<sub>Latest repository push: 2026-10-08 · Ordered by last push · Public repositories only</sub>
 
-  The following repositories have been included in the initial directory. The GitHub Actions updater can refresh this section with the full public repository list.
+| Repository | Language | Description | Last push |
+|:--|:--|:--|:--|
+| [AliRezaKhatibi](https://github.com/AliRezaKhatibi/AliRezaKhatibi) | Python | No description yet | 2026-10-08 |
+| [aerial-human-detection](https://github.com/AliRezaKhatibi/aerial-human-detection) | Jupyter Notebook | Real-time human detection in aerial imagery using deep learning | 2026-09-09 |
+| [real-time-aerial-human-detection-tracking](https://github.com/AliRezaKhatibi/real-time-aerial-human-detection-tracking) | Jupyter Notebook | A deep learning and computer vision framework for real-time aerial human detection, multi-object tracking, and optimized inference. | 2026-09-09 |
+| [GREEN-Pro](https://github.com/AliRezaKhatibi/GREEN-Pro) | Python | A professional desktop application for CSV data health analysis, cleaning, visualization, comparison, and reporting. | 2025-12-25 |
+| [graph-mining-pipeline](https://github.com/AliRezaKhatibi/graph-mining-pipeline) | HTML | A full-stack graph mining pipeline: data ingestion → preprocessing → feature extraction → community detection & node embedding → evaluation → interactive visualization. Built with NetworkX, PyG, Node2Vec, Louvain, and Streamlit. Includes Jupyter notebooks, unit tests, CI, and reproducible results. | 2025-11-05 |
+| [titanic-survival-prediction](https://github.com/AliRezaKhatibi/titanic-survival-prediction) | Jupyter Notebook | 🏆 Kaggle Titanic ML Pipeline | 2025-10-30 |
+| [15-Class-CNN-Classifier](https://github.com/AliRezaKhatibi/15-Class-CNN-Classifier) | Jupyter Notebook | 📌 **15-Class Image Classifier** using EfficientNetB0 & TensorFlow/Keras A transfer learning model for multi-class image classification with data preprocessing, visualization & evaluation. 🔧 **Tech Stack**: - EfficientNetB0 (pretrained) - TensorFlow / Keras #ComputerVision #DeepLearning #TransferLearning | 2025-10-10 |
+| [Regression-Models](https://github.com/AliRezaKhatibi/Regression-Models) | Jupyter Notebook | Notebooks covering various regression techniques (linear, logistic, polynomial, etc.) with examples and datasets. | 2025-04-29 |
+| [Neural-networks-from-scratch](https://github.com/AliRezaKhatibi/Neural-networks-from-scratch) | Jupyter Notebook | 🧠 Neural Networks from Scratch: A hands-on guide to understanding & implementing neural networks. Covers basics to advanced topics with Jupyter Notebooks. Perfect for learners & practitioners! 🚀 | 2025-03-18 |
+| [Digital-image-processing](https://github.com/AliRezaKhatibi/Digital-image-processing) | Jupyter Notebook | Digital image processing is a branch of digital signal processing that tries to use and apply image processing computer algorithms in digital images. | 2025-03-09 |
+| [Correlation-Matrix](https://github.com/AliRezaKhatibi/Correlation-Matrix) | Jupyter Notebook | Analysis of the Determinant of the Correlation Matrix | 2025-03-02 |
+| [p_1_2025](https://github.com/AliRezaKhatibi/p_1_2025) | Jupyter Notebook | use neural network for make a model with use tensorflow | 2025-03-02 |
+| [Mathematical-Functions-in-Neural-Networks](https://github.com/AliRezaKhatibi/Mathematical-Functions-in-Neural-Networks) | Jupyter Notebook | The primary objective of this paper is to explore and analyze the essential mathematical functions and equations that underpin neural networks | 2025-02-27 |
+| [Clustering](https://github.com/AliRezaKhatibi/Clustering) | HTML | Using Kmeans and Kneighbors algorithm for clustering Iris and Mall data | 2025-02-23 |
+| [Gradient-Descent-Algorithms](https://github.com/AliRezaKhatibi/Gradient-Descent-Algorithms) | Jupyter Notebook | Investigating the performance of gradient descent algorithms in reaching the minimum of a function | 2025-02-23 |
+| [transition-probability-matrix](https://github.com/AliRezaKhatibi/transition-probability-matrix) | Jupyter Notebook | Obtaining the transition probability matrix of a Markov chain | 2025-02-22 |
+| [lightweight-human-pose-estimation.pytorch (fork)](https://github.com/AliRezaKhatibi/lightweight-human-pose-estimation.pytorch) | — | Fast and accurate human pose estimation in PyTorch. Contains implementation of "Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose" paper. | 2024-04-30 |
 
-  | Repository | Focus |
-  |:--|:--|
-  | [real-time-aerial-human-detection-tracking](https://github.com/AliRezaKhatibi/real-time-aerial-human-detection-tracking) | Aerial Detection, Tracking & Optimized Inference |
-  | [aerial-human-detection](https://github.com/AliRezaKhatibi/aerial-human-detection) | Tiny-Person Aerial Computer Vision |
-  | [GREEN-Pro](https://github.com/AliRezaKhatibi/GREEN-Pro) | Offline Data Quality & EDA Application |
-  | [15-Class-CNN-Classifier](https://github.com/AliRezaKhatibi/15-Class-CNN-Classifier) | EfficientNetB0 Image Classification |
-  | [titanic-survival-prediction](https://github.com/AliRezaKhatibi/titanic-survival-prediction) | Tabular Machine Learning Pipeline |
-  | [Regression-Models](https://github.com/AliRezaKhatibi/Regression-Models) | Regression Notebooks |
-  | [Digital-image-processing](https://github.com/AliRezaKhatibi/Digital-image-processing) | Digital Image Processing |
-  | [transition-probability-matrix](https://github.com/AliRezaKhatibi/transition-probability-matrix) | Markov Transition Matrices |
-  | [AliRezaKhatibi](https://github.com/AliRezaKhatibi/AliRezaKhatibi) | GitHub Profile README |
-
-  <br />
-
-  **[Browse All My Public Repositories →](https://github.com/AliRezaKhatibi?tab=repositories)**
-
+[Open full GitHub directory ↗](https://github.com/AliRezaKhatibi?tab=repositories)
 </details>
-
 <!-- ALL_REPOS:END -->
 
 ---
