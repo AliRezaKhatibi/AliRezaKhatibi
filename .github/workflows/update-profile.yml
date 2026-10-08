@@ -1,0 +1,46 @@
+name: Refresh GitHub Profile README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 3 * * *"  # Daily, UTC; actual GitHub schedule may be delayed.
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme-refresh
+  cancel-in-progress: false
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh public repository directory
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_OWNER: AliRezaKhatibi
+          PROFILE_README_PATH: README.markdown
+        run: python scripts/update_readme.py
+
+      - name: Commit updates (if any)
+        run: |
+          if git diff --quiet -- README.markdown; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.markdown
+          git commit -m "docs: refresh public repositories [skip ci]"
+          git push
