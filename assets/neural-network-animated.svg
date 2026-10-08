@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+<title id="title">Neural network signal propagation</title>
+<desc id="desc">Animated cyan and gold data signals travel from input neurons through two hidden layers toward prediction neurons.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081322"/><stop offset="0.56" stop-color="#111B30"/><stop offset="1" stop-color="#0D1729"/></linearGradient>
+  <linearGradient id="wire" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#10BDAF"/><stop offset="0.55" stop-color="#317F96"/><stop offset="1" stop-color="#DAB875"/></linearGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#17C9BE"/><stop offset="1" stop-color="#DCB874"/></linearGradient>
+  <radialGradient id="cyanHalo"><stop stop-color="#17D8CD" stop-opacity="0.45"/><stop offset="1" stop-color="#17D8CD" stop-opacity="0"/></radialGradient>
+  <radialGradient id="goldHalo"><stop stop-color="#F3CB82" stop-opacity="0.5"/><stop offset="1" stop-color="#F3CB82" stop-opacity="0"/></radialGradient>
+  <filter id="glow" x="-250%" y="-250%" width="600%" height="600%"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#82B6C7" stroke-opacity="0.07" stroke-width="1"/></pattern>
+  <style>
+    .title{font:700 29px system-ui,-apple-system,'Segoe UI',Arial,sans-serif;fill:#F1F6FB;letter-spacing:.3px}
+    .sub{font:400 14px system-ui,-apple-system,'Segoe UI',Arial,sans-serif;fill:#91ACBD}
+    .layer{font:600 13px system-ui,-apple-system,'Segoe UI',Arial,sans-serif;fill:#B6CEDB;letter-spacing:1.3px}
+    .mini{font:500 12px system-ui,-apple-system,'Segoe UI',Arial,sans-serif;fill:#86A5B4}
+    .wire{stroke:url(#wire);stroke-width:1.45;stroke-opacity:.18;fill:none}
+    .inner{fill:#122B3D;stroke:#36CDC3;stroke-width:2}
+    .out{fill:#372D2C;stroke:#E3BC73;stroke-width:2}
+  </style>
+</defs>
+<rect x="0" y="0" width="1200" height="440" rx="22" fill="url(#background)"/>
+<rect x="0" y="0" width="1200" height="440" rx="22" fill="url(#grid)"/>
+<rect x="10" y="10" width="1180" height="420" rx="17" stroke="#476175" stroke-opacity=".4" fill="none"/>
+<rect x="45" y="46" width="6" height="42" rx="3" fill="url(#bar)"/>
+<text x="67" y="67" class="title">Neural Network Flow</text>
+<text x="67" y="91" class="sub">Data in motion  /  Layer-by-layer inference</text>
+<g stroke="#304A5C" stroke-width="1" stroke-dasharray="4 8" opacity=".6"><path d="M298 143V361"/><path d="M563 143V361"/><path d="M853 143V361"/></g>
+<g text-anchor="middle" class="layer"><text x="160" y="132">INPUT</text><text x="418" y="132">HIDDEN 01</text><text x="696" y="132">HIDDEN 02</text><text x="1000" y="132">OUTPUT</text></g>
+<g id="connections">
+<path class="wire" d="M160 175L418 142"/>
+<path class="wire" d="M160 175L418 194"/>
+<path class="wire" d="M160 175L418 246"/>
+<path class="wire" d="M160 175L418 298"/>
+<path class="wire" d="M160 175L418 350"/>
+<path class="wire" d="M160 235L418 142"/>
+<path class="wire" d="M160 235L418 194"/>
+<path class="wire" d="M160 235L418 246"/>
+<path class="wire" d="M160 235L418 298"/>
+<path class="wire" d="M160 235L418 350"/>
+<path class="wire" d="M160 295L418 142"/>
+<path class="wire" d="M160 295L418 194"/>
+<path class="wire" d="M160 295L418 246"/>
+<path class="wire" d="M160 295L418 298"/>
+<path class="wire" d="M160 295L418 350"/>
+<path class="wire" d="M418 142L696 157"/>
+<path class="wire" d="M418 142L696 218"/>
+<path class="wire" d="M418 142L696 279"/>
+<path class="wire" d="M418 142L696 340"/>
+<path class="wire" d="M418 194L696 157"/>
+<path class="wire" d="M418 194L696 218"/>
+<path class="wire" d="M418 194L696 279"/>
+<path class="wire" d="M418 194L696 340"/>
+<path class="wire" d="M418 246L696 157"/>
+<path class="wire" d="M418 246L696 218"/>
+<path class="wire" d="M418 246L696 279"/>
+<path class="wire" d="M418 246L696 340"/>
+<path class="wire" d="M418 298L696 157"/>
+<path class="wire" d="M418 298L696 218"/>
+<path class="wire" d="M418 298L696 279"/>
+<path class="wire" d="M418 298L696 340"/>
+<path class="wire" d="M418 350L696 157"/>
+<path class="wire" d="M418 350L696 218"/>
+<path class="wire" d="M418 350L696 279"/>
+<path class="wire" d="M418 350L696 340"/>
+<path class="wire" d="M696 157L1000 192"/>
+<path class="wire" d="M696 157L1000 252"/>
+<path class="wire" d="M696 157L1000 312"/>
+<path class="wire" d="M696 218L1000 192"/>
+<path class="wire" d="M696 218L1000 252"/>
+<path class="wire" d="M696 218L1000 312"/>
+<path class="wire" d="M696 279L1000 192"/>
+<path class="wire" d="M696 279L1000 252"/>
+<path class="wire" d="M696 279L1000 312"/>
+<path class="wire" d="M696 340L1000 192"/>
+<path class="wire" d="M696 340L1000 252"/>
+<path class="wire" d="M696 340L1000 312"/>
+</g>
+<g id="active-paths" fill="none" stroke-linecap="round">
+<path id="signal-0" d="M160 175 L418 194 L696 218 L1000 192" stroke="#17D8CD" stroke-width="2.2" opacity=".0"><animate attributeName="opacity" values="0;.46;0" dur="6.8s" begin="0s" repeatCount="indefinite"/></path>
+<path id="signal-1" d="M160 235 L418 298 L696 279 L1000 252" stroke="#F1C77B" stroke-width="2.2" opacity=".0"><animate attributeName="opacity" values="0;.46;0" dur="6.8s" begin="1.4s" repeatCount="indefinite"/></path>
+<path id="signal-2" d="M160 295 L418 350 L696 340 L1000 312" stroke="#17D8CD" stroke-width="2.2" opacity=".0"><animate attributeName="opacity" values="0;.46;0" dur="6.8s" begin="2.8s" repeatCount="indefinite"/></path>
+<path id="signal-3" d="M160 175 L418 142 L696 279 L1000 312" stroke="#91E6E0" stroke-width="2.2" opacity=".0"><animate attributeName="opacity" values="0;.46;0" dur="6.8s" begin="4.2s" repeatCount="indefinite"/></path>
+<path id="signal-4" d="M160 295 L418 246 L696 157 L1000 252" stroke="#F1C77B" stroke-width="2.2" opacity=".0"><animate attributeName="opacity" values="0;.46;0" dur="6.8s" begin="5.4s" repeatCount="indefinite"/></path>
+</g>
+<g id="neurons">
+<circle cx="160" cy="175" r="26" fill="url(#cyanHalo)" opacity=".45"/>
+<circle cx="160" cy="175" r="13" class="inner"/>
+<circle cx="160" cy="175" r="4" fill="#2FDBC9" opacity=".85"/>
+<circle cx="160" cy="175" r="20" stroke="#2FDBC9" stroke-width="1" fill="none" opacity="0"><animate attributeName="opacity" values="0;.5;0" dur="3.4s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="r" values="15;24;15" dur="3.4s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="160" cy="235" r="26" fill="url(#cyanHalo)" opacity=".45"/>
+<circle cx="160" cy="235" r="13" class="inner"/>
+<circle cx="160" cy="235" r="4" fill="#2FDBC9" opacity=".85"/>
+<circle cx="160" cy="295" r="26" fill="url(#cyanHalo)" opacity=".45"/>
+<circle cx="160" cy="295" r="13" class="inner"/>
+<circle cx="160" cy="295" r="4" fill="#2FDBC9" opacity=".85"/>
+<circle cx="418" cy="142" r="26" fill="url(#cyanHalo)" opacity=".45"/>
+<circle cx="418" cy="142" r="13" class="inner"/>
+<circle cx="418" cy="142" r="4" fill="#2FDBC9" opacity=".85"/>
+<circle cx="418" cy="194" r="26" fill="url(#cyanHalo)" opacity=".45"/>
+<circle cx="418" cy="194" r="13" class="inner"/>
+<circle cx="418" cy="194" r="4" fill="#2FDBC9" opacity=".85"/>
+<circle cx="418" cy="194" r="20" stroke="#2FDBC9" stroke-width="1" fill="none" opacity="0"><animate attributeName="opacity" values="0;.5;0" dur="3.4s" begin="0.7s" repeatCount="indefinite"/><animate attributeName="r" values="15;24;15" dur="3.4s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="418" cy="246" r="26" fill="url(#cyanHalo)" opacity=".45"/>
+<circle cx="418" cy="246" r="13" class="inner"/>
+<circle cx="418" cy="246" r="4" fill="#2FDBC9" opacity=".85"/>
+<circle cx="418" cy="298" r="26" fill="url(#cyanHalo)" opacity=".45"/>
+<circle cx="418" cy="298" r="13" class="inner"/>
+<circle cx="418" cy="298" r="4" fill="#2FDBC9" opacity=".85"/>
+<circle cx="418" cy="350" r="26" fill="url(#cyanHalo)" opacity=".45"/>
+<circle cx="418" cy="350" r="13" class="inner"/>
+<circle cx="418" cy="350" r="4" fill="#2FDBC9" opacity=".85"/>
+<circle cx="696" cy="157" r="26" fill="url(#cyanHalo)" opacity=".45"/>
+<circle cx="696" cy="157" r="13" class="inner"/>
+<circle cx="696" cy="157" r="4" fill="#2FDBC9" opacity=".85"/>
+<circle cx="696" cy="218" r="26" fill="url(#cyanHalo)" opacity=".45"/>
+<circle cx="696" cy="218" r="13" class="inner"/>
+<circle cx="696" cy="218" r="4" fill="#2FDBC9" opacity=".85"/>
+<circle cx="696" cy="279" r="26" fill="url(#cyanHalo)" opacity=".45"/>
+<circle cx="696" cy="279" r="13" class="inner"/>
+<circle cx="696" cy="279" r="4" fill="#2FDBC9" opacity=".85"/>
+<circle cx="696" cy="279" r="20" stroke="#2FDBC9" stroke-width="1" fill="none" opacity="0"><animate attributeName="opacity" values="0;.5;0" dur="3.4s" begin="1.4s" repeatCount="indefinite"/><animate attributeName="r" values="15;24;15" dur="3.4s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="696" cy="340" r="26" fill="url(#cyanHalo)" opacity=".45"/>
+<circle cx="696" cy="340" r="13" class="inner"/>
+<circle cx="696" cy="340" r="4" fill="#2FDBC9" opacity=".85"/>
+<circle cx="1000" cy="192" r="26" fill="url(#goldHalo)" opacity=".45"/>
+<circle cx="1000" cy="192" r="15" class="out"/>
+<circle cx="1000" cy="192" r="4" fill="#F1CB82" opacity=".85"/>
+<circle cx="1000" cy="252" r="26" fill="url(#goldHalo)" opacity=".45"/>
+<circle cx="1000" cy="252" r="15" class="out"/>
+<circle cx="1000" cy="252" r="4" fill="#F1CB82" opacity=".85"/>
+<circle cx="1000" cy="312" r="26" fill="url(#goldHalo)" opacity=".45"/>
+<circle cx="1000" cy="312" r="15" class="out"/>
+<circle cx="1000" cy="312" r="4" fill="#F1CB82" opacity=".85"/>
+<circle cx="1000" cy="312" r="22" stroke="#F1CB82" stroke-width="1" fill="none" opacity="0"><animate attributeName="opacity" values="0;.5;0" dur="3.4s" begin="2.0999999999999996s" repeatCount="indefinite"/><animate attributeName="r" values="17;26;17" dur="3.4s" begin="2.0999999999999996s" repeatCount="indefinite"/></circle>
+</g>
+<g id="moving-signals">
+<circle r="13" fill="url(#cyanHalo)"><animateMotion dur="6.8s" begin="0s" repeatCount="indefinite" path="M160 175 L418 194 L696 218 L1000 192"/></circle>
+<circle r="4.4" fill="#17D8CD" filter="url(#glow)"><animateMotion dur="6.8s" begin="0s" repeatCount="indefinite" path="M160 175 L418 194 L696 218 L1000 192"/></circle>
+<circle r="13" fill="url(#goldHalo)"><animateMotion dur="6.8s" begin="1.4s" repeatCount="indefinite" path="M160 235 L418 298 L696 279 L1000 252"/></circle>
+<circle r="4.4" fill="#F1C77B" filter="url(#glow)"><animateMotion dur="6.8s" begin="1.4s" repeatCount="indefinite" path="M160 235 L418 298 L696 279 L1000 252"/></circle>
+<circle r="13" fill="url(#cyanHalo)"><animateMotion dur="6.8s" begin="2.8s" repeatCount="indefinite" path="M160 295 L418 350 L696 340 L1000 312"/></circle>
+<circle r="4.4" fill="#17D8CD" filter="url(#glow)"><animateMotion dur="6.8s" begin="2.8s" repeatCount="indefinite" path="M160 295 L418 350 L696 340 L1000 312"/></circle>
+<circle r="13" fill="url(#cyanHalo)"><animateMotion dur="6.8s" begin="4.2s" repeatCount="indefinite" path="M160 175 L418 142 L696 279 L1000 312"/></circle>
+<circle r="4.4" fill="#91E6E0" filter="url(#glow)"><animateMotion dur="6.8s" begin="4.2s" repeatCount="indefinite" path="M160 175 L418 142 L696 279 L1000 312"/></circle>
+<circle r="13" fill="url(#goldHalo)"><animateMotion dur="6.8s" begin="5.4s" repeatCount="indefinite" path="M160 295 L418 246 L696 157 L1000 252"/></circle>
+<circle r="4.4" fill="#F1C77B" filter="url(#glow)"><animateMotion dur="6.8s" begin="5.4s" repeatCount="indefinite" path="M160 295 L418 246 L696 157 L1000 252"/></circle>
+</g>
+<g text-anchor="middle" class="mini"><text x="160" y="390">Feature vectors</text><text x="418" y="390">Feature extraction</text><text x="696" y="390">Representations</text><text x="1000" y="390">Predictions</text></g>
+<rect x="60" y="413" width="1080" height="2" rx="1" fill="#17445A"/>
+<rect x="60" y="413" width="190" height="2" rx="1" fill="url(#bar)"><animate attributeName="x" values="60;950;60" dur="8s" repeatCount="indefinite"/></rect>
+</svg>
