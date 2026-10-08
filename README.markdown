@@ -45,6 +45,24 @@ I work across the research-to-application pipeline: designing experiments, evalu
 
 ---
 
+## ✨ XVARNA | Research &amp; Innovation
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/AliRezaKhatibi/AliRezaKhatibi/main/assets/xvarna-brand-banner.png" width="100%" alt="XVARNA Research and Artificial Intelligence Banner" />
+
+  <br /><br />
+
+  <img src="https://raw.githubusercontent.com/AliRezaKhatibi/AliRezaKhatibi/main/assets/xvarna-logo-animated.webp" width="68%" alt="Animated XVARNA Gold and Cyan Team Logo" />
+
+  <p><strong>eXcellence in Vision, Artificial Intelligence, Research, Neural Networks &amp; Advancement</strong></p>
+
+  <sub>Research, engineering, and deployable artificial intelligence.</sub>
+
+</div>
+
+---
+
 ## 🎞️ Animated Visual Showcase
 
 ### 🧠 Neural Network Flow
