@@ -1,9 +1,7 @@
-
 <!--
   AliRezaKhatibi | GitHub Profile README
   Focus: AI Research, Deep Learning, Computer Vision,
   Aerial Detection, Multi-Object Tracking & Applied AI.
-
   RECENT_REPOS and ALL_REPOS are maintained by GitHub Actions.
 -->
 
@@ -16,25 +14,19 @@
   <a href="https://github.com/AliRezaKhatibi?tab=followers">
     <img src="https://img.shields.io/github/followers/AliRezaKhatibi?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=101827&color=13B8AE" alt="GitHub Followers" />
   </a>
-
   <a href="https://github.com/AliRezaKhatibi?tab=repositories">
     <img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-D5AF69?style=for-the-badge&logo=github&labelColor=101827" alt="Explore Repositories" />
   </a>
-
   <a href="https://www.linkedin.com/in/alireza-khatibi78/">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101827" alt="LinkedIn" />
   </a>
-
   <a href="mailto:alireza12arkero@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-CONTACT-13B8AE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101827" alt="Email" />
   </a>
 
   <br /><br />
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3200&pause=1100&color=20C7C3&center=true&vCenter=true&width=850&lines=AI+Research+%7C+Deep+Learning+%7C+Computer+Vision;From+model+benchmarks+to+real-world+systems;Detect+%E2%86%92+Track+%E2%86%92+Optimize+%E2%86%92+Deploy"
-    alt="AI Research, Deep Learning and Computer Vision"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3200&pause=1100&color=20C7C3&center=true&vCenter=true&width=850&lines=AI+Research+%7C+Deep+Learning+%7C+Computer+Vision;From+model+benchmarks+to+real-world+systems;Detect+%E2%86%92+Track+%E2%86%92+Optimize+%E2%86%92+Deploy" alt="AI Research, Deep Learning and Computer Vision" />
 
 </div>
 
@@ -53,22 +45,26 @@ I work across the research-to-application pipeline: designing experiments, evalu
 
 ---
 
-## 🧠 Neural Network Flow
+## 🎞️ Animated Visual Showcase
 
+### 🧠 Neural Network Flow
 <div align="center">
+  <img src="https://raw.githubusercontent.com/AliRezaKhatibi/AliRezaKhatibi/main/assets/neural-network-flow.svg" width="100%" alt="Animated Neural Network Flow" />
+</div>
 
-  <img
-    src="https://raw.githubusercontent.com/AliRezaKhatibi/AliRezaKhatibi/main/assets/neural-network-animated.svg"
-    width="100%"
-    alt="Animated Neural Network: Signal Propagation from Input to Output"
-  />
+### 🎯 Computer Vision Pipeline
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AliRezaKhatibi/AliRezaKhatibi/main/assets/computer-vision-pipeline.svg" width="100%" alt="Animated Computer Vision Pipeline" />
+</div>
 
-  <br />
+### 🔁 Model Training Lifecycle
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AliRezaKhatibi/AliRezaKhatibi/main/assets/training-lifecycle.svg" width="100%" alt="Animated Model Training Lifecycle" />
+</div>
 
-  <sub>
-    Watch information travel through the layers, from raw features to predictions.
-  </sub>
-
+### 📊 Data Intelligence Stream
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AliRezaKhatibi/AliRezaKhatibi/main/assets/data-intelligence-stream.svg" width="100%" alt="Animated Data Intelligence Stream" />
 </div>
 
 ---
@@ -80,84 +76,42 @@ I work across the research-to-application pipeline: designing experiments, evalu
     <td width="50%" valign="top">
       <h3>🚁 <a href="https://github.com/AliRezaKhatibi/real-time-aerial-human-detection-tracking">Aerial Detection & Tracking</a></h3>
       <p>An end-to-end research and engineering framework for aerial human detection, multi-object tracking, inference optimization, and desktop integration.</p>
-      <p>
-        <code>YOLO26s</code>
-        <code>RT-DETR</code>
-        <code>ByteTrack</code>
-        <code>BoT-SORT</code>
-        <code>TensorRT</code>
-      </p>
-      <a href="https://github.com/AliRezaKhatibi/real-time-aerial-human-detection-tracking">
-        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-0E9C9A?style=flat-square&logo=github&logoColor=white" alt="Explore Project" />
-      </a>
+      <p><code>YOLO26s</code> <code>RT-DETR</code> <code>ByteTrack</code> <code>BoT-SORT</code> <code>TensorRT</code></p>
+      <a href="https://github.com/AliRezaKhatibi/real-time-aerial-human-detection-tracking"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-0E9C9A?style=flat-square&logo=github&logoColor=white" alt="Explore Project" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🎯 <a href="https://github.com/AliRezaKhatibi/aerial-human-detection">Aerial Human Detection</a></h3>
       <p>Research-oriented human detection in UAV footage, with attention to tiny objects, camera motion, high-resolution imagery, and tracking workflows.</p>
-      <p>
-        <code>Computer Vision</code>
-        <code>Small Objects</code>
-        <code>PyTorch</code>
-        <code>UAV</code>
-      </p>
-      <a href="https://github.com/AliRezaKhatibi/aerial-human-detection">
-        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-0E9C9A?style=flat-square&logo=github&logoColor=white" alt="Explore Project" />
-      </a>
+      <p><code>Computer Vision</code> <code>Small Objects</code> <code>PyTorch</code> <code>UAV</code></p>
+      <a href="https://github.com/AliRezaKhatibi/aerial-human-detection"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-0E9C9A?style=flat-square&logo=github&logoColor=white" alt="Explore Project" /></a>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3>🧹 <a href="https://github.com/AliRezaKhatibi/GREEN-Pro">GREEN Pro</a></h3>
       <p>An offline Python desktop application for CSV data health checks, cleaning, visualization, dataset comparison, and HTML reporting.</p>
-      <p>
-        <code>Python</code>
-        <code>Pandas</code>
-        <code>Tkinter</code>
-        <code>EDA</code>
-      </p>
-      <a href="https://github.com/AliRezaKhatibi/GREEN-Pro">
-        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-D5AF69?style=flat-square&logo=github&logoColor=white" alt="Explore Project" />
-      </a>
+      <p><code>Python</code> <code>Pandas</code> <code>Tkinter</code> <code>EDA</code></p>
+      <a href="https://github.com/AliRezaKhatibi/GREEN-Pro"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-D5AF69?style=flat-square&logo=github&logoColor=white" alt="Explore Project" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/AliRezaKhatibi/15-Class-CNN-Classifier">15-Class CNN Classifier</a></h3>
       <p>An image classification project built around EfficientNetB0 transfer learning, preprocessing, and model evaluation.</p>
-      <p>
-        <code>EfficientNetB0</code>
-        <code>TensorFlow</code>
-        <code>Keras</code>
-      </p>
-      <a href="https://github.com/AliRezaKhatibi/15-Class-CNN-Classifier">
-        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-D5AF69?style=flat-square&logo=github&logoColor=white" alt="Explore Project" />
-      </a>
+      <p><code>EfficientNetB0</code> <code>TensorFlow</code> <code>Keras</code></p>
+      <a href="https://github.com/AliRezaKhatibi/15-Class-CNN-Classifier"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-D5AF69?style=flat-square&logo=github&logoColor=white" alt="Explore Project" /></a>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3>🚢 <a href="https://github.com/AliRezaKhatibi/titanic-survival-prediction">Titanic Survival Prediction</a></h3>
       <p>An end-to-end tabular ML project with feature engineering, model comparisons, tuning, and evaluation.</p>
-      <p>
-        <code>Scikit-learn</code>
-        <code>XGBoost</code>
-        <code>Random Forest</code>
-      </p>
-      <a href="https://github.com/AliRezaKhatibi/titanic-survival-prediction">
-        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-0E9C9A?style=flat-square&logo=github&logoColor=white" alt="Explore Project" />
-      </a>
+      <p><code>Scikit-learn</code> <code>XGBoost</code> <code>Random Forest</code></p>
+      <a href="https://github.com/AliRezaKhatibi/titanic-survival-prediction"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-0E9C9A?style=flat-square&logo=github&logoColor=white" alt="Explore Project" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>📐 <a href="https://github.com/AliRezaKhatibi/Regression-Models">Regression Models</a></h3>
       <p>Notebooks and learning material covering linear, multivariate, polynomial, and regularized regression approaches.</p>
-      <p>
-        <code>Machine Learning</code>
-        <code>Statistics</code>
-        <code>Jupyter</code>
-      </p>
-      <a href="https://github.com/AliRezaKhatibi/Regression-Models">
-        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-0E9C9A?style=flat-square&logo=github&logoColor=white" alt="Explore Project" />
-      </a>
+      <p><code>Machine Learning</code> <code>Statistics</code> <code>Jupyter</code></p>
+      <a href="https://github.com/AliRezaKhatibi/Regression-Models"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-0E9C9A?style=flat-square&logo=github&logoColor=white" alt="Explore Project" /></a>
     </td>
   </tr>
 </table>
@@ -167,12 +121,7 @@ I work across the research-to-application pipeline: designing experiments, evalu
 ## ⚙️ Technology & Research Stack
 
 <div align="center">
-
-  <img
-    src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,react,typescript,rust,docker,git,github,linux&perline=12"
-    alt="Technology Stack"
-  />
-
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,react,typescript,rust,docker,git,github,linux&perline=12" alt="Technology Stack" />
 </div>
 
 | Focus | Technologies & Concepts |
@@ -251,35 +200,17 @@ _This section is populated from public repository push timestamps when the inclu
 ## 📊 GitHub Insights
 
 <div align="center">
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=AliRezaKhatibi&show_icons=true&theme=transparent&title_color=15B8AE&icon_color=D5AF69&text_color=8B949E&hide_border=true&rank_icon=github"
-    alt="GitHub Statistics"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRezaKhatibi&layout=compact&theme=transparent&title_color=15B8AE&text_color=8B949E&hide_border=true&langs_count=6"
-    alt="Top Programming Languages"
-  />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AliRezaKhatibi&show_icons=true&theme=transparent&title_color=15B8AE&icon_color=D5AF69&text_color=8B949E&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRezaKhatibi&layout=compact&theme=transparent&title_color=15B8AE&text_color=8B949E&hide_border=true&langs_count=6" alt="Top Programming Languages" />
 </div>
 
 <br />
 
 <div align="center">
-
   <h3>📈 GitHub Contribution Activity</h3>
-
   <a href="https://github.com/AliRezaKhatibi?tab=overview">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliRezaKhatibi&theme=tokyonight"
-      width="95%"
-      alt="GitHub Activity Summary"
-    />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliRezaKhatibi&theme=tokyonight" width="95%" alt="GitHub Activity Summary" />
   </a>
-
 </div>
 
 <br />
@@ -293,32 +224,20 @@ GitHub statistics are supplied by third-party services and may occasionally be u
 ## 🤝 Research · Build · Collaborate
 
 <div align="center">
-
   <h3>Let's Build Intelligent Systems Together</h3>
-
   <p>
     Interested in computer vision research, model evaluation,
     applied AI, or intelligent software development?
   </p>
 
   <a href="mailto:alireza12arkero@gmail.com">
-    <img
-      src="https://img.shields.io/badge/LET'S_TALK-EMAIL-13B8AE?style=for-the-badge&logo=gmail&labelColor=101827&logoColor=white"
-      alt="Contact by Email"
-    />
+    <img src="https://img.shields.io/badge/LET'S_TALK-EMAIL-13B8AE?style=for-the-badge&logo=gmail&labelColor=101827&logoColor=white" alt="Contact by Email" />
   </a>
-
   <a href="https://www.linkedin.com/in/alireza-khatibi78/">
-    <img
-      src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&labelColor=101827&logoColor=white"
-      alt="Connect on LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&labelColor=101827&logoColor=white" alt="Connect on LinkedIn" />
   </a>
 
   <br /><br />
 
-  <sub>
-    Built with curiosity · Backed by experiments · Updated from GitHub
-  </sub>
-
+  <sub>Built with curiosity · Backed by experiments · Updated from GitHub</sub>
 </div>
